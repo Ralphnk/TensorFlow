@@ -16,7 +16,7 @@ The following are all the changes coming in TensorFlow 2.x. Let's have a closer 
 * Alternative variable scoping
 * My changes changed
 * More changes done. Testing 
-  
+* My new line
 
 ## Eager Execution
 
